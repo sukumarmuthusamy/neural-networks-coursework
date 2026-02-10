@@ -5,19 +5,19 @@ This assignment implements a linear regression model to predict employee salarie
 ## Files Included
 
 - **salary_prediction_linear_regression.ipynb** — Complete Jupyter Notebook with code, outputs, and analysis for the regression task.
-- **SalaryData.csv** — Dataset containing years of experience and corresponding salary information.
+- **Assignment1_SalaryData.csv** — Dataset containing years of experience and corresponding salary information.
 
 ## Assignment Overview
 
 This assignment covers fundamental concepts in supervised learning through linear regression:
-- **Dataset:** SalaryData.csv (Years of Experience vs. Salary)
+- **Dataset:** Assignment1_SalaryData.csv (Years of Experience vs. Salary)
 - **Objective:** Build a predictive model for salary based on years of experience
 - **Framework:** Python with Pandas, NumPy, Scikit-Learn, and Matplotlib
 
 ## Tasks Implemented
 
 ### Task 1: Load Dataset and Create DataFrame
-- Upload and import SalaryData.csv into a pandas DataFrame
+- Upload and import Assignment1_SalaryData.csv into a pandas DataFrame
 - Display first few rows and dataset summary statistics
 - Verify data types and dataset dimensions
 
